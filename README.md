@@ -3,7 +3,7 @@
 
 
 Objective:										
-My Client has $10,000. He wants to invest this money in the stock market. Recommend smart investment in stocks of Amazon, Microsoft and Tesla. 										
+Client has $10,000. He wants to invest this money in the stock market. Recommend smart investment in stocks of Amazon, Microsoft and Tesla. 										
 
 Steps:										
 1. Use Yahoo Finance (https://finance.yahoo.com/lookup) for getting company's historic stock prices for the last two years.										
