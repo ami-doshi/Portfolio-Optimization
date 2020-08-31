@@ -13,6 +13,6 @@ Steps:
 5. Find the Average and Standard Deviation of company returns										
 6. Find Weighted Company returns										
 7. Calculate Expected Portfolio Returns and Risk										
-8. Create Porfolio Recommendations and Investments strategies for different weights										
+8. Create Portfolio Recommendations and Investments strategies for different weights										
 										
 Note: Feel free to add other scenarios and try different Maximizing and Minimizing Technicques										
